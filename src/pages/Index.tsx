@@ -56,6 +56,13 @@ const Index = () => {
       image: "images/weather app.png",
       link: "https://weather-c8wc4qwad-meriteid24s-projects.vercel.app/",
       github: "https://github.com/Meriteid24/weather-app"
+    },
+    {
+      title: "Web Scraper",
+      description: "This project is a Python-based web scraper that automatically collects trending computer and technology products from multiple e-commerce websites, including Amazon, Newegg, and Jumia. The scraper extracts product names and timestamps of when they were scraped, and saves the data to an Excel file for easy analysis and reporting.",
+      tech: ["Python", "BeautifulSoup", "Pandas", "OpenPyXL"],
+      image: "images/scraper.png",
+      github: "https://github.com/Meriteid24/scraper"
     }
   ];
 
